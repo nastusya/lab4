@@ -1,0 +1,6 @@
+elasticsearch
+pandas
+sodapy
+redis
+kafka-python
+flask
